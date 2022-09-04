@@ -1,0 +1,273 @@
+
+.usercard{
+    width: 600px;
+    height: 330px;
+    border-style: solid;
+    position:absolute;
+    left:250px;
+    border-color: grey;
+    top:100px
+}
+.back{
+    background-color: rgb(0, 174, 255);
+}
+.icon{
+    width: 10px; 
+    height:15px;
+    position: relative;
+    left:30px;
+    top:0px;
+}
+.gear{
+    width:20px;
+    height:20px;
+    position:relative;
+    left: 30px;
+    top:25px;
+    
+}
+.user{
+
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 30px;
+    top: 40px;
+    border-radius: 50%;
+    border-style:ridge;
+    border-color:white;
+}
+h1{
+    position:relative;
+    top: 20px;
+    left:30px;
+
+}
+strong{
+    position:relative;
+    left: 30px;
+    top:0px;
+    font-size:x-large;
+    
+}
+.role{
+    position:relative;
+    left: 30px;
+    top:10px;
+    font-weight: bold;
+
+}
+.master{
+    position:relative;
+    left: 30px;
+    top:10px;
+    font-weight: bold;
+}
+a{
+    position:relative;
+    left: 30px;
+    top:20px;
+}
+.panel2{
+    
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color:grey;
+    position: absolute;
+    right: 800px;
+    top:100px;
+    
+}
+.back1{
+    background-color: black;
+    color: white;
+    height: 40px;
+    justify-content:space-evenly;
+    display: flex;
+    text-align: center;
+}
+.img1{
+    position: relative;
+    top: 30px;
+    left: 10px;
+}
+.img2,.img3{
+    width:30px;
+    height:30px;
+    position: relative;
+    top: 30px;
+    right: 10px;
+}
+
+.text1{
+    font-weight: bold;
+    position: relative;
+    top: 20px;
+    left:10px;  
+}
+
+.img4{
+    position: relative;
+    top: 50px;
+    left: 10px;
+}
+.img5,.img6{
+    width:30px;
+    height:30px;
+    position: relative;
+    top: 50px;
+    right: 10px;
+}
+span{
+    border-radius: 50%;
+
+}
+#two{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-color: white;
+    position: relative;
+    top: 8px;
+    background-color: grey; 
+    color: black;
+}
+
+.text2{
+    font-weight: bold;
+    position: relative;
+    top: 40px;
+    left:10px;  
+}
+#three{
+    position: relative;
+    top:7px;
+}
+.panel3{
+    position: absolute;
+    border-style: solid;
+    width: 600px;
+    height: 100px;
+    position:absolute;
+    left:250px;
+    bottom: 450px;
+    border-color: grey;
+}
+.edu{
+    background-color: black;
+    color:white;
+    height: 30px; 
+}
+#edu{
+    position: relative;
+    left: 10px;
+    top: 3px;
+}
+#coding,#coding2{
+    position: relative;
+    left: 10px;
+    top: 3px;
+    font-weight: bold;
+}
+#date{
+    position: relative;
+    left: 10px;
+    top: 3px;
+    color:grey;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#coding{
+    font-size: 25px;
+}
+.panel4{
+    width: 200px;
+    height: 260px;
+    border-style: solid;
+    border-color: grey;
+    position: absolute;
+    right: 800px;
+    bottom: 450px;
+}
+.row1{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+#text4{
+    width: 20px;
+    height: 25px;
+    border-radius: 30%;
+    border-color: white;
+    position: relative;
+    left: 5px;
+    top: 7px;
+    background-color: grey;
+    color: black;
+}
+#text5{
+    position: relative;
+    top: 7px;
+    left: 15px;
+}
+.text3{
+    font-weight: bold;
+    position: relative;
+    top: 5px;
+    left:20px;  
+}
+.img7,.img8,.img9,.img10{
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+.view{
+    height: 40px;
+    width: 200px;
+    border-style: solid;
+    border-color: grey;
+    position: relative;
+    right: 3px;
+    top: 30px;
+}
+#view1{
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+.panel1{
+    width: 80%;
+    height: 70px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content:space-between;
+}
+#row2{
+    position: relative;
+    font-size: xx-large;
+    left: 250px;
+    top: 10px;
+}
+#row3,#row4,#row5{
+    position: relative;
+    font-size: larger;
+    top: 20px;   
+}
+#row4{
+    position: relative;
+    left:-250px;  
+}
+#row5{
+    position: relative;
+    left:-500px;  
+}
+#sign{
+    width: 80px;
+    height: 20px;
+    background-color:rgb(34, 103, 126);
+    position: relative;
+    top: 25px;
+    right: 380px;
+    color: white;
+}
